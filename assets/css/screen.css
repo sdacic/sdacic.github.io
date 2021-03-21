@@ -107,8 +107,8 @@ body {
   padding-top: 12px;
   padding-bottom: 12px;
   color: #fff;
-  background: color(var(--darkgrey) l(-5%)) no-repeat center center;
-  background-size: cover;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
 }
 
 .site-header:before {
@@ -195,6 +195,10 @@ body {
   overflow-y: hidden;
   height: 40px;
   font-size: 1.2rem;
+}
+
+.nav-common {
+  font-size: 1.6rem;
 }
 
 .site-nav-left {
