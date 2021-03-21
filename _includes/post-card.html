@@ -1,5 +1,11 @@
 {% assign words_per_minute = site.words_per_minute | default: 200 %}
 
+<article class="post-card home-template">
+    <iframe width="900" height="506" src="https://www.youtube.com/embed/7n145-J8ejg?list=RDMM" frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen></iframe>
+</article>
+
 {% for post in paginator.posts %}
     <article class="post-card {{ page.class }}{% unless post.cover %} no-image{% endunless %}">
         {% if post.cover %}
