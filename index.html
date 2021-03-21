@@ -14,13 +14,9 @@ into the {body} of the default.hbs template -->
     <div class="inner">
         <div class="site-header-content">
             <h1 class="site-title">
-                {% if site.logo %}
-                    <img class="site-logo" src="{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title }}"/>
-                {% else %}
-                    {{ site.title }}
-                {% endif %}
+                SDACIC
             </h1>
-            <h2 class="site-description">{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}</h2>
+            <h2 class="site-description">Chiba International Church</h2>
         </div>
         {% include site-nav.html %}
     </div>
