@@ -71,7 +71,7 @@ repo: sdacic
 branch: main
 relative_source: ../sdacic/
 destination: ../sdacic/
-production_url: https://sdacic.github.io/
+production_url: https://sdacic.com/
 source_url: https://github.com/sdacic/sdacic.github.io/
 
 exclude:
