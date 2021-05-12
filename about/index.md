@@ -1,10 +1,10 @@
 ---
-layout: post
-current: post
+layout: page
+current: about
 title: About
 navigation: true
 logo: "assets/images/ghost.png"
-class: post-template
+class: page-template
 subclass: "post page"
 ---
 
