@@ -1,11 +1,14 @@
 ---
-layout: page
-current: about
-title: About
-navigation: true
-logo: "assets/images/ghost.png"
-class: page-template
-subclass: "post page"
+layout: post
+current: post
+cover: assets/images/welcome.jpg
+navigation: True
+title: Welcome to Ghost
+date: 2017-07-27 10:00:00
+tags: [Getting started]
+class: post-template
+subclass: "post"
+author: ghost
 ---
 
 Ghost is professional publishing platform designed for modern journalism. This is a demo site of a basic Ghost install to give you a general sense of what a new Ghost site looks like when set up for the first time.
