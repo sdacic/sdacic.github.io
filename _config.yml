@@ -13,8 +13,8 @@ title: SdaCic
 description: SDA CIC Site
 cover: assets/images/sdacic-cover.jpg
 logo: assets/images/sdacic_logo.png
-logo_dark: assets/images/favicon.png
-favicon: assets/images/favicon.png
+logo_dark: assets/images/sdacic_logo.png
+favicon: assets/images/sdacic_logo.png
 CNAME: #add cname for website to be created
 
 # Social info
