@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.sdacic.com/sitemap.xml
+Sitemap: https://sdacic.github.io/sitemap.xml
