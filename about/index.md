@@ -3,18 +3,12 @@ layout: post
 current: post
 cover: assets/images/welcome.jpg
 navigation: True
-title: Welcome to Ghost
-date: 2017-07-27 10:00:00
-tags: [Getting started]
+title: 千葉国際教会へようこそ
+date: 2021-06-26 10:00:00
+tags: []
 class: post-template
 subclass: "post"
 author: ghost
 ---
 
-Ghost is professional publishing platform designed for modern journalism. This is a demo site of a basic Ghost install to give you a general sense of what a new Ghost site looks like when set up for the first time.
-
-> If you'd like to set up a site like this for yourself, head over to [Ghost.org](https://ghost.org/) and start a free 14 day trial to give Ghost a try!
-
-If you're a developer: Ghost is a completely open source (MIT) Node.js application built on a JSON API with an Ember.js admin client. It works with MySQL and SQLite, and is publicly available [on Github](https://github.com/TryGhost/ghost).
-
-If you need help with using Ghost, you'll find a ton of useful articles on [our knowledgebase](https://help.ghost.org/), as well as extensive [developer documentation](https://docs.ghost.org/).
+千葉国際教会へいらっしゃた皆さんを神様はみ名で歓迎いたします。神様の祝福が豊かに皆様の上に注がれ世界中の多くの人々に神様の栄光を表し神様のところに戻ることを心から願っております。千葉国際教会は全世界の様々な国の人々が集まって色んな言語で礼拝を捧げております。
